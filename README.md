@@ -128,5 +128,7 @@ CTF 工作负载通常包含不受信任的二进制文件、脚本、文档和�
 
 ## License / 许可证
 
-This project is licensed under the [Apache License 2.0](LICENSE).
-本项目采用 [Apache License 2.0](LICENSE) 许可证。
+Copyright 2026 POFP CTF Agent contributors.
+
+This project is licensed under the [GNU General Public License, version 3 or later](LICENSE) (`GPL-3.0-or-later`).
+本项目采用 [GNU 通用公共许可证第 3 版或更新版本](LICENSE)（`GPL-3.0-or-later`）许可证。
